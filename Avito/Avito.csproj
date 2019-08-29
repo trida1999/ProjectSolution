@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="error.cs" />
-    <Compile Include="IParam.cs" />
     <Compile Include="IValue.cs" />
     <Compile Include="Param.cs" />
     <Compile Include="Program.cs" />
